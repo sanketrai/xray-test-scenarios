@@ -1,0 +1,11 @@
+name: malformed_scenario_1
+
+display_name: "Malformed Scenario 1"
+
+description: |
+  <strong>This is a malformed scenario</strong>
+
+tags:
+  - test
+
+estimated_runtime: 0
