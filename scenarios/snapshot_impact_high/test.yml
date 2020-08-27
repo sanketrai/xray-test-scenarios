@@ -7,7 +7,7 @@ summary:
 
 description: |
   <strong>Test Objectives</strong><br />
-  This test is designed to show the effects of an increasing number of
+  This test is designed to demonstrate the effects of an increasing number of
   snapshots on a critical OLTP DB workload.
   <ol>
     <li>Standard Intensity:</li>
