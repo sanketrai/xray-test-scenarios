@@ -1,6 +1,6 @@
 name: hci_workflow_linked
 
-display_name: "HCI Workflow: Linked Clones"
+display_name: "HCI Workflow: Linked Clones - Main branch"
 
 summary:
   A day in the life of a hyperconverged system with mixed workloads (OLTP+VDI)
